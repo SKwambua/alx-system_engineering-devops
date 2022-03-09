@@ -25,3 +25,9 @@ file 11-binary_to_decimal is a script that converts a number from base 2 to base
 file 12-combinations is a script that prints all possible combinations of two letters, except oo, (Letters are lower cases, from a to z, One combination per line, The output should be alpha ordered, starting with aa, Do not print oo, Your script file should contain maximum 64 character)
 
 file 13-print_float is a script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
+
+file 100-decimal_to_hexadecimal is a script that converts a number from base 10 to base 16
+
+file 101-rot13 is a script that  encodes and decodes text using the rot13 encryption. Assume ASCII
+
+file 102-odd is a script that prints every other line from the input, starting with the first line
