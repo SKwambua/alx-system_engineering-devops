@@ -1,2 +1,1 @@
-#!/bin/bash
-My alx system engineering dirctory paths
+My alx system engineering devops directories
